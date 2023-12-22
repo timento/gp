@@ -8,10 +8,10 @@ http://12.troya.one:34000/ch2630/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy
 #EXTINF:0 tvg-name="ch1136"  tvg-logo="http://troya.one/images/chIcons/1136.png"  timeshift="6", Travel Channel HD
 #EXTGRP:לייף סטייל
 http://12.troya.one:34000/ch1136/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9YB_DTuF0AAjTJpN0ZAWZ3m796bZuY3TlxApDv1TNcbR
-#EXTINF:0 tvg-name="ch1124"  tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="6", ערוץ האוכל
+#EXTINF:0 tvg-name="ch1124"  tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="6", Food Channel HD
 #EXTGRP:לייף סטייל
 http://12.troya.one:34000/ch1124/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9Swa9MGJWN5YG_EUtMIkieS5KhTW4xeI61keb0o7_0u4
-#EXTINF:0 tvg-name="ch1176"  tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="6", ערוץ הבריאות
+#EXTINF:0 tvg-name="ch1176"  tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="6", Health Channel HD
 #EXTGRP:לייף סטייל
 http://12.troya.one:34000/ch1176/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9X7IOlR5G33FeqnVFQKcVknAcgf9xHRD8-xnyCJ8qrZ9
 #EXTINF:0 tvg-name="ch2631"  tvg-logo="http://troya.one/images/chIcons/2631.png"  timeshift="6", Home Plus
@@ -29,16 +29,16 @@ http://12.troya.one:34000/ch2540/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy
 #EXTINF:0 tvg-name="ch2624"  tvg-logo="http://troya.one/images/chIcons/2624.png"  timeshift="6", Animal Planet HD
 #EXTGRP:כללי
 http://12.troya.one:34000/ch2624/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9TAH3qDeXPhXqYyW111Hyk7PUD8mHY_t0LCkvSp9zXGm
-#EXTINF:0 tvg-name="ch428"  tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="6", ערוץ 11
+#EXTINF:0 tvg-name="ch428"  tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="6", Channel 11
 #EXTGRP:חדשות
 http://12.troya.one:34000/ch428/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9fHeVTFd2-nkgw4pzgVw6CHjM_fURzgZeHfb5u3MmqgE
-#EXTINF:0 tvg-name="ch429"  tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="6", ערוץ 12
+#EXTINF:0 tvg-name="ch429"  tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="6", Channel 12
 #EXTGRP:חדשות
 http://12.troya.one:34000/ch429/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9cuJIOZjXn8tvJIsyu4FGdlPTCAooNYBnZkgdQuUCTGi
-#EXTINF:0 tvg-name="ch430"  tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="6", ערוץ 13
+#EXTINF:0 tvg-name="ch430"  tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="6", Channel 13
 #EXTGRP:חדשות
 http://12.troya.one:34000/ch430/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9Sgzi90qIu0vaSEH_bXZAtaaSL3MQP9SqzA8_vNJvc8D
-#EXTINF:0 tvg-name="ch1119"  tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="6", ערוץ 14
+#EXTINF:0 tvg-name="ch1119"  tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="6", Channel 14
 #EXTGRP:חדשות
 http://12.troya.one:34000/ch1119/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9VZR54g2vhuqC8-e0IZfdngaKN6WNyaTZBrZDl23mnDv
 #EXTINF:0 tvg-name="ch1174"  tvg-logo="http://troya.one/images/chIcons/1174.png"  timeshift="6", IL: HOT Comedy Central HD

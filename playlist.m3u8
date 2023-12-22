@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1141.png" timeshift="6", IL: Good Life TV HD
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1141.png" timeshift="6", Good Life TV HD
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch1141/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9dCt0wYanMC6PgTfwDgLDdxe1VyuvkQvTf6NtZoMVC_m
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2630.png" timeshift="6", IL: Foody HD
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2630.png" timeshift="6", Foody HD
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch2630/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9VonEE8Ml8ufqiehvZP3sqQowAHxlolU2hSBHsVwWfLD
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1136.png" timeshift="6", IL: Travel Channel HD
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1136.png" timeshift="6", Travel Channel HD
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch1136/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9YB_DTuF0AAjTJpN0ZAWZ3k3AeAq8FBTGwy9Qn7HR2LZ
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1124.png" timeshift="6", IL: Food Channel HD
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1124.png" timeshift="6", Food Channel HD
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch1124/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9Swa9MGJWN5YG_EUtMIkieQo-uVrhDQVCBmiq3EMjUYr
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1176.png" timeshift="6", IL: Health Channel HD
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/1176.png" timeshift="6", Health Channel HD
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch1176/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9X7IOlR5G33FeqnVFQKcVknTpLiek3Lh2mlgoJguRCpN
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2631.png" timeshift="6", IL: Home Plus
-#EXTGRP:4. Israel
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2631.png" timeshift="6", Home Plus
+#EXTGRP:1. Lifestyle
 http://12.troya.one:34000/ch2631/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9UOOPul5SfeVxmK32YCSOAUzuyWufgNdIFZ7IZpO4i2O
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2542.png" timeshift="6", IL: Free Tv Cooking HD
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2542.png" timeshift="6", Free Tv Cooking HD
 #EXTGRP:4. Israel
 http://12.troya.one:34000/ch2542/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9XsH-Z3hiPIFxM8vmMsxbddNqMh-O-88FPJIVbBa8_wQ
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2541.png" timeshift="6", IL: Free Tv Lifestyle HD
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2541.png" timeshift="6", Free Tv Lifestyle HD
 #EXTGRP:4. Israel
 http://12.troya.one:34000/ch2541/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9cBsIahf1NYfDxybTSAxV3oyd94xnigT5_6iCnqRCMsC
-#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2540.png" timeshift="6", IL: Free Tv Comedy HD
+#EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2540.png" timeshift="6", Free Tv Comedy HD
 #EXTGRP:4. Israel
 http://12.troya.one:34000/ch2540/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9U3hoTiZDhi281GIica8Cw-Z7XdUa-tWwFrlbv_3tbEU
 #EXTINF:0 tvg-id="не указан" tvg-logo="http://troya.one/images/chIcons/2624.png" timeshift="6", IL: Animal Planet HD

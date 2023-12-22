@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-name="ch1141"  tvg-logo="http://troya.one/images/chIcons/1141.png"  timeshift="6", IL: Good Life TV HD
-#EXTGRP:3. Lifestyle
+#EXTGRP:19. Lifestyle
 http://12.troya.one:34000/ch1141/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9dCt0wYanMC6PgTfwDgLDdyukJGqEZJLEQojT5yqJKZ7
 #EXTINF:0 tvg-name="ch2630"  tvg-logo="http://troya.one/images/chIcons/2630.png"  timeshift="6", IL: Foody HD
-#EXTGRP:3. Lifestyle
+#EXTGRP:18. Lifestyle
 http://12.troya.one:34000/ch2630/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9VonEE8Ml8ufqiehvZP3sqTBTvKs-v2eAwVobvYfX41D
 #EXTINF:0 tvg-name="ch1136"  tvg-logo="http://troya.one/images/chIcons/1136.png"  timeshift="6", IL: Travel Channel HD
-#EXTGRP:3. Lifestyle
+#EXTGRP:18. Lifestyle
 http://12.troya.one:34000/ch1136/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9YB_DTuF0AAjTJpN0ZAWZ3m796bZuY3TlxApDv1TNcbR
 #EXTINF:0 tvg-name="ch1124"  tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="6", IL: Food Channel HD
 #EXTGRP:4. Israel
@@ -372,8 +372,8 @@ http://12.troya.one:34000/ch2526/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy
 #EXTGRP:17. Spain
 http://12.troya.one:34000/ch2216/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9cdOxoZma_bKC28J2T5G2qvxKFyw6K170tZ5zlzRpC7e
 #EXTINF:0 tvg-name="ch2221"  tvg-logo="http://troya.one/images/chIcons/2221.png"  timeshift="0", ES: Movistar Accion HD
-#EXTGRP:18. Test
+#EXTGRP:17. Spain
 http://12.troya.one:34000/ch2221/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9SrBLq9ioCWcohw5qBm5PSLTqme1vFotB_sGuBaiq844
 #EXTINF:0 tvg-name="ch2219"  tvg-logo="http://troya.one/images/chIcons/2219.png"  timeshift="0", ES: Real Madrid TV HD
-#EXTGRP:18. Test
+#EXTGRP:18. Lifestyle
 http://12.troya.one:34000/ch2219/mono.m3u8?token=hellopixelim.SCc48kW1ob1eevDCTy-u9ULvtpjX-4IvzyiBWuR1fMZRhtWagV6avMhiEYRXR6Uq

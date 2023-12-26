@@ -311,7 +311,7 @@ http://12.troya.one:34000/ch2637/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTINF:0 tvg-id="IL: Nick HD"  tvg-logo="http://troya.one/images/chIcons/1185.png"  timeshift="6", IL: Nick HD
 #EXTGRP:ילדים
 http://12.troya.one:34000/ch1185/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubu2ydmMSeULvrbzuSuIIaYJ65Iv5nJ5R0OoL4nc8QqQ
-#EXTINF:0 tvg-id="IL: Disney Jr."  tvg-logo="http://troya.one/images/chIcons/1162.png"  timeshift="6", IL: Disney Jr.
+#EXTINF:0 tvg-id="IL: Disney Jr.-------------"  tvg-logo="http://troya.one/images/chIcons/1162.png"  timeshift="6", IL: Disney Jr.
 #EXTGRP:ילדים
 http://12.troya.one:34000/ch1162/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucp_061ewAIMX36h9HCdcii4cX8tasCFjBNxxcTQ4z_E----------
 #EXTINF:0 tvg-id="IL: Disney Channel HD"  tvg-logo="http://troya.one/images/chIcons/1121.png"  timeshift="6", IL: Disney Channel HD

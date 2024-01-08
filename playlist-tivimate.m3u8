@@ -168,7 +168,7 @@ http://12.troya.one:34000/ch1173/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTGRP:כללי
 http://12.troya.one:34000/ch2613/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ublvUFh42wMi64U0RuYQfIfvFCB-Uap0EqT-RgSA5zsC
 #EXTINF:0 tvg-id="IL: HOT Buzz HD"  tvg-logo="http://troya.one/images/chIcons/2614.png"  timeshift="6", IL: HOT Buzz HD
-#EXTGRP:כללי
+#EXTGRP:ילדים
 http://12.troya.one:34000/ch2614/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZMRHIcyRKDg9wa9JRnH_lHqm4tTik127R9np7gzlBQ6
 #EXTINF:0 tvg-id="IL: HBO HD"  tvg-logo="http://troya.one/images/chIcons/2639.png"  timeshift="6", IL: HBO HD
 #EXTGRP:סדרות

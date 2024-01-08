@@ -73,8 +73,8 @@ http://12.troya.one:34000/ch2640/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 http://12.troya.one:34000/ch1144/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUGNpVs_o1jyhcFzzBABSdYq_mbLnjfMkmlx4jYWLyD7
 #EXTINF:0 tvg-id="IL: Discovery Channel HD"  tvg-logo="http://troya.one/images/chIcons/1120.png"  timeshift="6", IL: Discovery Channel HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1120/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapXztvPyTWefnBAEYTbZue_IGeojm0n7-7ESaiy7rdH
-#EXTINF:0 tvg-id="IL: Discovery Science HD"  tvg-logo="http://troya.one/images/chIcons/2623.png"  timeshift="6", IL: Discovery Science HD
+http://12.troya.one:34000/ch1120/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapXztvPyTWefnBAEYTbZuf8qYBpRBqa6_Rv7nOhSHJ2
+#EXTINF:0 tvg-id="IL: MTV HD"  tvg-logo="http://troya.one/images/chIcons/2623.png"  timeshift="6", IL: MTV HD
 #EXTGRP:כללי
 http://12.troya.one:34000/ch2623/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubb4rRw_VHBUCPS3__JZ0ermR8UszzcyRUMEsvb_1Yns
 #EXTINF:0 tvg-id="IL: History HD"  tvg-logo="http://troya.one/images/chIcons/1143.png"  timeshift="6", IL: History HD

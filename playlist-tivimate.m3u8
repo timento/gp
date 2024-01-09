@@ -1,333 +1,331 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/timento/gp/main/epg.xml"
-#EXTINF:0 tvg-id="IL: Good Life TV HD"  tvg-logo="http://troya.one/images/chIcons/1141.png"  timeshift="6", IL: Good Life TV HD
+#EXTINF:0 tvg-id="IL: Good Life TV HD"  tvg-logo="http://troya.one/images/chIcons/1141.png"  timeshift="3", IL: Good Life TV HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1141/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uY6ssohAo_p0rOeI7lVhj-qdZziJigLQPthr50SrNq-p
+http://12.troya.one:34000/ch1141/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uY6ssohAo_p0rOeI7lVhj-rLcaTrdw3etRGnztBR1bbW
 #EXTINF:0 tvg-id="IL: Foody HD"  tvg-logo="http://troya.one/images/chIcons/2630.png"  timeshift="6", IL: Foody HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2630/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZeh0ZlleXP7_bKlZvUQt5kaN3zCrgDSD5-hGxOC_dUm
-#EXTINF:0 tvg-id="IL: Travel Channel HD"  tvg-logo="http://troya.one/images/chIcons/1136.png"  timeshift="6", IL: Travel Channel HD
+http://12.troya.one:34000/ch2630/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZeh0ZlleXP7_bKlZvUQt5l_C1UQAP7n-8RRf7THeqcG
+#EXTINF:0 tvg-id="IL: Travel Channel HD"  tvg-logo="http://troya.one/images/chIcons/1136.png"  timeshift="3", IL: Travel Channel HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1136/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQjY37s6AZIPnAydcakaZCZHWpMlDCBXQQd6fGPKqkNU
-#EXTINF:0 tvg-id="IL: Food Channel HD"  tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="6", IL: Food Channel HD
+http://12.troya.one:34000/ch1136/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQjY37s6AZIPnAydcakaZCYUvMz6q10edUFDU2zoDvpY
+#EXTINF:0 tvg-id="IL: Food Channel HD"  tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="3", IL: Food Channel HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1124/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ue-EKime7AMj98Aue3nklb_gjXgwE8PvaVIgeewJu6Uo
-#EXTINF:0 tvg-id="IL: Health Channel HD"  tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="6", IL: Health Channel HD
+http://12.troya.one:34000/ch1124/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ue-EKime7AMj98Aue3nklb9xQ5PHOq3qZ0Wz0fjYVbRQ
+#EXTINF:0 tvg-id="IL: Health Channel HD"  tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="3", IL: Health Channel HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1176/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVybMf8V9b4rWWbdYWRWUL_Brb7n2I7abL8kK2EhFHuO
+http://12.troya.one:34000/ch1176/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVybMf8V9b4rWWbdYWRWUL8jG373D7YJQGlgC3-ZdOmX
 #EXTINF:0 tvg-id="IL: Home Plus"  tvg-logo="http://troya.one/images/chIcons/2631.png"  timeshift="6", IL: Home Plus
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2631/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ua57xLaLhTl5-xcVxRn0Ok7lVx9smR17S-wkOhE0q9GI
+http://12.troya.one:34000/ch2631/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ua57xLaLhTl5-xcVxRn0Ok6HDHkRJBlKO_WyPUw7_XbX
 #EXTINF:0 tvg-id="IL: Free Tv Cooking HD"  tvg-logo="http://troya.one/images/chIcons/2542.png"  timeshift="6", IL: Free Tv Cooking HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2542/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udWmDV1ss2o29ts7MjwzNkWJDb1dZIQL4mxtYVxT1z-e
+http://12.troya.one:34000/ch2542/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udWmDV1ss2o29ts7MjwzNkXeIAW9ym7oElEMRu5GR3iC
 #EXTINF:0 tvg-id="IL: Free Tv Lifestyle HD"  tvg-logo="http://troya.one/images/chIcons/2541.png"  timeshift="6", IL: Free Tv Lifestyle HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2541/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubUPWh7BT31V5-SmBDU8O2UG36kAjQBSsrj_2P2B2UMz
+http://12.troya.one:34000/ch2541/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubUPWh7BT31V5-SmBDU8O2XKCGdAk7B72RGV6o6cG75t
 #EXTINF:0 tvg-id="IL: Free Tv Comedy HD"  tvg-logo="http://troya.one/images/chIcons/2540.png"  timeshift="6", IL: Free Tv Comedy HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch2540/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYxP1fn9waslvZHSOoZCGMJni0XNpIg3J_L2PF6kCgoi
+http://12.troya.one:34000/ch2540/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYxP1fn9waslvZHSOoZCGMJQUikjoFoDjWkeme_1Qcvy
 #EXTINF:0 tvg-id="IL: Animal Planet HD"  tvg-logo="http://troya.one/images/chIcons/2624.png"  timeshift="6", IL: Animal Planet HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2624/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZA9v0_EQjb6CsHdwiVKJsYufH-Eg4gQ13RHdXAW1qJ7
-#EXTINF:0 tvg-id="IL: Channel 11"  tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="6", IL: Channel 11
+http://12.troya.one:34000/ch2624/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZA9v0_EQjb6CsHdwiVKJsZOJ_EngoxKZqzhxG6J6ni2
+#EXTINF:0 tvg-id="IL: Channel 11"  tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="3", IL: Channel 11
 #EXTGRP:חדשות
-http://12.troya.one:34000/ch428/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWG9Pk9zG8B_cIbgwv15ndLz-0TXrAfXV88pChUDvMVn
-#EXTINF:0 tvg-id="IL: Channel 12"  tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="6", IL: Channel 12
+http://12.troya.one:34000/ch428/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWG9Pk9zG8B_cIbgwv15ndLEo39ct-ggu2g_4CsDUDfJ
+#EXTINF:0 tvg-id="IL: Channel 12"  tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="3", IL: Channel 12
 #EXTGRP:חדשות
-http://12.troya.one:34000/ch429/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQRrYBEmqeSOjs7o6itP0PMmj4AgiuKhMWgJ9Cbl8W_c
-#EXTINF:0 tvg-id="IL: Channel 13"  tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="6", IL: Channel 13
+http://12.troya.one:34000/ch429/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQRrYBEmqeSOjs7o6itP0PO6juAJWOYuGZXKjQUwCh-2
+#EXTINF:0 tvg-id="IL: Channel 13"  tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="2", IL: Channel 13
 #EXTGRP:חדשות
-http://12.troya.one:34000/ch430/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uenKTZLt1wROPuVoPtnoXomjrtxV_No3-JktPzj4PnTw
-#EXTINF:0 tvg-id="IL: Channel 14"  tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="6", IL: Channel 14
+http://12.troya.one:34000/ch430/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uenKTZLt1wROPuVoPtnoXomkZ_NK7O-wJ_L0m-avGHhr
+#EXTINF:0 tvg-id="IL: Channel 14"  tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="4", IL: Channel 14
 #EXTGRP:חדשות
-http://12.troya.one:34000/ch1119/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVm5Z6Y6FuYePfTAOhb0fn7lJVzrCsOFw_uQCI8eN2F2
-#EXTINF:0 tvg-id="IL: HOT Comedy Central HD"  tvg-logo="http://troya.one/images/chIcons/1174.png"  timeshift="6", IL: HOT Comedy Central HD
+http://12.troya.one:34000/ch1119/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVm5Z6Y6FuYePfTAOhb0fn7hcURSrUuARhjlzc2bNd9-
+#EXTINF:0 tvg-id="IL: HOT Comedy Central HD"  tvg-logo="http://troya.one/images/chIcons/1174.png"  timeshift="3", IL: HOT Comedy Central HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch1174/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUlVjJj18HdM-fgrRwT55YKkfSUK56-VmKY_urqOr3_8
-#EXTINF:0 tvg-id="IL: YES Movies Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1149.png"  timeshift="6", IL: YES Movies Comedy HD
+http://12.troya.one:34000/ch1174/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUlVjJj18HdM-fgrRwT55YKBvFyUWfgo3n3bO-NICOuV
+#EXTINF:0 tvg-id="IL: YES Movies Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1149.png"  timeshift="3", IL: YES Movies Comedy HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1149/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTZCIzNHk74pWjjGirpyQKhqxQI6gnn2b-Yyacu-LMRV
+http://12.troya.one:34000/ch1149/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTZCIzNHk74pWjjGirpyQKj52BzA22NqnYaYsvF11x_V
 #EXTINF:0 tvg-id="IL: Erez Nehederet HD"  tvg-logo="http://troya.one/images/chIcons/2544.png"  timeshift="6", IL: Erez Nehederet HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch2544/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWahxDLmUVNgCYl9UOY8zq-cYrNizKPUmJHwHuvI6HCy
-#EXTINF:0 tvg-id="IL: Humor Chanenel"  tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="6", IL: Humor Chanenel
+http://12.troya.one:34000/ch2544/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWahxDLmUVNgCYl9UOY8zq-CaQ10tuGl57f0_WyUEoNs
+#EXTINF:0 tvg-id="IL: Humor Chanenel"  tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="3", IL: Humor Chanenel
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch1178/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucTivknYWFFFet9hOUd6B5YD_zjGCXB2-pDQFkYhraQK
-#EXTINF:0 tvg-id="IL: YES TV Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1159.png"  timeshift="6", IL: YES TV Comedy HD
+http://12.troya.one:34000/ch1178/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucTivknYWFFFet9hOUd6B5ZX__WLrRfkvudiAkPUcoiQ
+#EXTINF:0 tvg-id="IL: YES TV Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1159.png"  timeshift="2", IL: YES TV Comedy HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch1159/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubX4RhGuJi-qmvnI17EHCIlKgRXjd6WcY3vtS1T_B2vv
-#EXTINF:0 tvg-id="IL: Free Movies Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1193.png"  timeshift="6", IL: Free Movies Comedy HD
+http://12.troya.one:34000/ch1159/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubX4RhGuJi-qmvnI17EHCIlZcHu7E3KoXH4KDltH1wbV
+#EXTINF:0 tvg-id="IL: Free Movies Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1193.png"  timeshift="3", IL: Free Movies Comedy HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1193/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uS16ltWf1c_qsd-ZBi-1AgjcWec8g6YsqbjLo80txOCO
-#EXTINF:0 tvg-id="IL: HOT HBO HD"  tvg-logo="http://troya.one/images/chIcons/1175.png"  timeshift="6", IL: HOT HBO HD
+http://12.troya.one:34000/ch1193/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uS16ltWf1c_qsd-ZBi-1AgiQSOGNVyaNtoRwgTyl07wo
+#EXTINF:0 tvg-id="IL: HOT HBO HD"  tvg-logo="http://troya.one/images/chIcons/1175.png"  timeshift="3", IL: HOT HBO HD
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch1175/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ualJOyI6IDA8xjA1BL3-aETDwfverf2H59JrT4HtObId
+http://12.troya.one:34000/ch1175/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ualJOyI6IDA8xjA1BL3-aEQQBsbYZrI0c0LrsIQBPWjk
 #EXTINF:0 tvg-id="IL: Free Tv Doco HD"  tvg-logo="http://troya.one/images/chIcons/2543.png"  timeshift="6", IL: Free Tv Doco HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2543/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaucarga4iCoWUpZHWQZmG03pB8kgFGWB8x58KOywx2Z
+http://12.troya.one:34000/ch2543/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaucarga4iCoWUpZHWQZmG0AzuHDu70Oq42bwkSPb4oS
 #EXTINF:0 tvg-id="IL: Doco HD"  tvg-logo="http://troya.one/images/chIcons/2640.png"  timeshift="6", IL: Doco HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2640/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWMQPw1_uyG8VVR3N_xrZeZRtSld947RKoJUuhqYiUMf
-#EXTINF:0 tvg-id="IL: HOT 8 HD"  tvg-logo="http://troya.one/images/chIcons/1144.png"  timeshift="6", IL: HOT 8 HD
+http://12.troya.one:34000/ch2640/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWMQPw1_uyG8VVR3N_xrZeY3W8lu4yN63T8uGkpzIjrq
+#EXTINF:0 tvg-id="IL: HOT 8 HD"  tvg-logo="http://troya.one/images/chIcons/1144.png"  timeshift="3", IL: HOT 8 HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1144/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUGNpVs_o1jyhcFzzBABSdYq_mbLnjfMkmlx4jYWLyD7
-#EXTINF:0 tvg-id="IL: Discovery Channel HD"  tvg-logo="http://troya.one/images/chIcons/1120.png"  timeshift="6", IL: Discovery Channel HD
+http://12.troya.one:34000/ch1144/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUGNpVs_o1jyhcFzzBABSdYvrHXAWXXKAJynlsqRrNJP
+#EXTINF:0 tvg-id="IL: Discovery Channel HD"  tvg-logo="http://troya.one/images/chIcons/1120.png"  timeshift="3", IL: Discovery Channel HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1120/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapXztvPyTWefnBAEYTbZue_IGeojm0n7-7ESaiy7rdH
-#EXTINF:0 tvg-id="IL: Discovery Science HD"  tvg-logo="http://troya.one/images/chIcons/2623.png"  timeshift="6", IL: Discovery Science HD
+http://12.troya.one:34000/ch1120/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapXztvPyTWefnBAEYTbZud2p5p1NQb4T8IPQHnea2HR
+#EXTINF:0 tvg-id="IL: MTV HD"  tvg-logo="http://troya.one/images/chIcons/2623.png"  timeshift="6", IL: MTV HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2623/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubb4rRw_VHBUCPS3__JZ0ermR8UszzcyRUMEsvb_1Yns
-#EXTINF:0 tvg-id="IL: History HD"  tvg-logo="http://troya.one/images/chIcons/1143.png"  timeshift="6", IL: History HD
+http://12.troya.one:34000/ch2623/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubb4rRw_VHBUCPS3__JZ0eoycR4nvVDLVTNB6CKLxlFr
+#EXTINF:0 tvg-id="IL: History HD"  tvg-logo="http://troya.one/images/chIcons/1143.png"  timeshift="3", IL: History HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1143/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZFqDzdWV62kufdq25-mxVguO_BRhGqVmUUspzZZXXkP
-#EXTINF:0 tvg-id="IL: Reality HD"  tvg-logo="http://troya.one/images/chIcons/1182.png"  timeshift="6", IL: Reality HD
+http://12.troya.one:34000/ch1143/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZFqDzdWV62kufdq25-mxVjelCDEznZNDZ5Ent-IteQu
+#EXTINF:0 tvg-id="IL: Reality HD"  tvg-logo="http://troya.one/images/chIcons/1182.png"  timeshift="3", IL: Reality HD
 #EXTGRP:ריאליטי
-http://12.troya.one:34000/ch1182/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVHhXR-rafaQyk7XAfOxY2gfA1tr1Dj5NXCsOARGbBPI
-#EXTINF:0 tvg-id="IL: Nat Geo Wild"  tvg-logo="http://troya.one/images/chIcons/1138.png"  timeshift="6", IL: Nat Geo Wild
+http://12.troya.one:34000/ch1182/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVHhXR-rafaQyk7XAfOxY2hUIpATJd7hRvKehzzYGnkQ
+#EXTINF:0 tvg-id="IL: Nat Geo Wild"  tvg-logo="http://troya.one/images/chIcons/1138.png"  timeshift="3", IL: Nat Geo Wild
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1138/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufJCHin_7U3-5UD8mgdfCY_HTgBajcg9MJ4md2oUtT6H
-#EXTINF:0 tvg-id="IL: Nat Geo HD"  tvg-logo="http://troya.one/images/chIcons/1126.png"  timeshift="6", IL: Nat Geo HD
+http://12.troya.one:34000/ch1138/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufJCHin_7U3-5UD8mgdfCY-OY29epPIKFaLK55BlF0Tt
+#EXTINF:0 tvg-id="IL: Nat Geo HD"  tvg-logo="http://troya.one/images/chIcons/1126.png"  timeshift="3", IL: Nat Geo HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1126/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUfmewLUI7yki9cw_LiI7gGoeYyaZU-iSNDeEVQTGPxX
+http://12.troya.one:34000/ch1126/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUfmewLUI7yki9cw_LiI7gHQumnoU2oeBi6DsrS7_OmC
 #EXTINF:0 tvg-id="IL: Free Israeli Movies HD"  tvg-logo="http://troya.one/images/chIcons/2538.png"  timeshift="6", IL: Free Israeli Movies HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2538/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXacQUJ2dHsMM_oL1CmBNaLidsDfD43Pn6pWYcvYM1nZ
+http://12.troya.one:34000/ch2538/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXacQUJ2dHsMM_oL1CmBNaLwAG3l12JeEp_pjXHnXfJH
 #EXTINF:0 tvg-id="IL: Cellcom Israel"  tvg-logo="http://troya.one/images/chIcons/2499.png"  timeshift="6", IL: Cellcom Israel
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch2499/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaCbtCDk1bpHPqy6KkFjIeD2a1XrBcezYGAwg0qTXMHf
+http://12.troya.one:34000/ch2499/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaCbtCDk1bpHPqy6KkFjIeCEkENYDwfuniJfLDmEZwEZ
 #EXTINF:0 tvg-id="IL: Cellcom Sratim"  tvg-logo="http://troya.one/images/chIcons/2495.png"  timeshift="3", IL: Cellcom Sratim
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2495/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf7Kd6dlFs0VuEQsUOvy7hiXyiTZ4-DsRDM8W_INL77O
-#EXTINF:0 tvg-id="IL: Baby TV"  tvg-logo="http://troya.one/images/chIcons/1118.png"  timeshift="6", IL: Baby TV
+http://12.troya.one:34000/ch2495/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf7Kd6dlFs0VuEQsUOvy7hhJ_8GSnodIATbg9UeOJ-Ko
+#EXTINF:0 tvg-id="IL: Baby TV"  tvg-logo="http://troya.one/images/chIcons/1118.png"  timeshift="3", IL: Baby TV
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1118/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV1jgXLG1HzTe3ziXHy1CITM2dZBZ4guPRVZYHh6lrvm
+http://12.troya.one:34000/ch1118/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV1jgXLG1HzTe3ziXHy1CITev52MxRRsFCIau-VQkx0m
 #EXTINF:0 tvg-id="IL: CBS Reality"  tvg-logo="http://troya.one/images/chIcons/2628.png"  timeshift="6", IL: CBS Reality
 #EXTGRP:ריאליטי
-http://12.troya.one:34000/ch2628/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZcF7XA4sn0nae-e-IhAFj191VtRNrTqeV4TRZmZScUl
+http://12.troya.one:34000/ch2628/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZcF7XA4sn0nae-e-IhAFj3RKOimVTVWYSabszV6ySsJ
 #EXTINF:0 tvg-id="IL: Big"  tvg-logo="http://troya.one/images/chIcons/2032.png"  timeshift="0", IL: Big
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2032/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUjL-x8IZn0MRyC-HKRforp9byMv_JyeFTwxq0AcH9h7
-#EXTINF:0 tvg-id="IL: 24"  tvg-logo="http://troya.one/images/chIcons/1142.png"  timeshift="6", IL: 24
+http://12.troya.one:34000/ch2032/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUjL-x8IZn0MRyC-HKRforrHOOQaUxRntpVQnr0pONUx
+#EXTINF:0 tvg-id="IL: 24"  tvg-logo="http://troya.one/images/chIcons/1142.png"  timeshift="3", IL: 24
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1142/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udGdGhuuFxBb972MYeG_v3Y0UdgkBhjEueCbI5tBSLPM
-#EXTINF:0 tvg-id="IL: E!"  tvg-logo="http://troya.one/images/chIcons/1122.png"  timeshift="6", IL: E!
+http://12.troya.one:34000/ch1142/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udGdGhuuFxBb972MYeG_v3aLjnpzfWED8sb5gVz9ytpH
+#EXTINF:0 tvg-id="IL: E!"  tvg-logo="http://troya.one/images/chIcons/1122.png"  timeshift="3", IL: E!
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1122/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ud3G8UW4Ei2xAkcNZYjfn60YubwZXc4L_7__xPrUn09k
+http://12.troya.one:34000/ch1122/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ud3G8UW4Ei2xAkcNZYjfn62CNHbCfLdNdFfGE3o4QGUO
 #EXTINF:0 tvg-id="IL: Ego Total"  tvg-logo="http://troya.one/images/chIcons/2498.png"  timeshift="3", IL: Ego Total
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2498/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWhR0dM0NUXpjUw8PnT8KG4QBVTMKb5fnhpEprpoeMkg
+http://12.troya.one:34000/ch2498/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWhR0dM0NUXpjUw8PnT8KG6TIaSvXs_YWbYK91wthZX-
 #EXTINF:0 tvg-id="IL: Free Movies Horror HD"  tvg-logo="http://troya.one/images/chIcons/2535.png"  timeshift="6", IL: Free Movies Horror HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2535/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUeqCOVLa32H5hBrwhE8YUXQ1_AJWerPcfFoVuueW42P
+http://12.troya.one:34000/ch2535/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUeqCOVLa32H5hBrwhE8YUVa9WRqcH_rJ5xTNNE1nQAC
 #EXTINF:0 tvg-id="IL: Free Tv Drama HD"  tvg-logo="http://troya.one/images/chIcons/2539.png"  timeshift="6", IL: Free Tv Drama HD
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch2539/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubN-OyE6JBbB1Y0mmwvKJ1max0iq0_KE75qNl-hAJxEP
+http://12.troya.one:34000/ch2539/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubN-OyE6JBbB1Y0mmwvKJ1noQL99Y4ZKZXpWXEN4kTdu
 #EXTINF:0 tvg-id="IL: Free Movies Drama HD"  tvg-logo="http://troya.one/images/chIcons/2534.png"  timeshift="6", IL: Free Movies Drama HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2534/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapa94oeQ4te--tP88CRqIEaanxHfH4TV8gPSyxeJPir
+http://12.troya.one:34000/ch2534/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uapa94oeQ4te--tP88CRqIGsrwaP35IY-up0FeHIw2E-
 #EXTINF:0 tvg-id="IL: Free Movies Action HD"  tvg-logo="http://troya.one/images/chIcons/2537.png"  timeshift="6", IL: Free Movies Action HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2537/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucqUnY-50zGpmGcq-TeNde0tw47X4beXzO-_03pKYtEK
-#EXTINF:0 tvg-id="IL: Hop"  tvg-logo="http://troya.one/images/chIcons/1154.png"  timeshift="6", IL: Hop
+http://12.troya.one:34000/ch2537/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucqUnY-50zGpmGcq-TeNde04DqbbMcBg4j4P2AlhcbZv
+#EXTINF:0 tvg-id="IL: Hop"  tvg-logo="http://troya.one/images/chIcons/1154.png"  timeshift="3", IL: Hop
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1154/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueeqoCgpkPOAPwXYinnJL5iTe9tN49C0dZ42itmLLe0I
-#EXTINF:0 tvg-id="IL: Hidabroot"  tvg-logo="http://troya.one/images/chIcons/1167.png"  timeshift="6", IL: Hidabroot
+http://12.troya.one:34000/ch1154/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueeqoCgpkPOAPwXYinnJL5hhfibCHnNka3shmmCsc2c0
+#EXTINF:0 tvg-id="IL: Hidabroot"  tvg-logo="http://troya.one/images/chIcons/1167.png"  timeshift="3", IL: Hidabroot
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1167/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZb-eg8mAP2pe0lBCDruaI29_zofOCqtIMMRsq68O0iq
-#EXTINF:0 tvg-id="IL: HOT Cinema 1 HD"  tvg-logo="http://troya.one/images/chIcons/1161.png"  timeshift="6", IL: HOT Cinema 1 HD
+http://12.troya.one:34000/ch1167/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZb-eg8mAP2pe0lBCDruaI04zBs5bl5gtx4X_OyRuX-w
+#EXTINF:0 tvg-id="IL: HOT Cinema 1 HD"  tvg-logo="http://troya.one/images/chIcons/1161.png"  timeshift="4", IL: HOT Cinema 1 HD
 #EXTGRP:סרטים
-vhttp://12.troya.one:34000/ch1161/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uW-ws6WKlEIpOiH_v7JQVUV3SSyCbRmDfn_I8b35sARIs
-#EXTINF:0 tvg-id="IL: HOT Cinema 2 HD"  tvg-logo="http://troya.one/images/chIcons/1172.png"  timeshift="6", IL: HOT Cinema 2 HD
+http://12.troya.one:34000/ch1161/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uW-ws6WKlEIpOiH_v7JQVUXkI2Mw-mGwXAlQS6rZAc0c
+#EXTINF:0 tvg-id="IL: HOT Cinema 2 HD"  tvg-logo="http://troya.one/images/chIcons/1172.png"  timeshift="3", IL: HOT Cinema 2 HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1172/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufS8JKSyZcK2l6LzMwc6ZSTgDj42d0HQNJtBElOjatOA
-#EXTINF:0 tvg-id="IL: HOT Cinema 3 HD"  tvg-logo="http://troya.one/images/chIcons/1140.png"  timeshift="6", IL: HOT Cinema 3 HD
+http://12.troya.one:34000/ch1172/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufS8JKSyZcK2l6LzMwc6ZSQtRFeduuBOlam7W8viQHZ-
+#EXTINF:0 tvg-id="IL: HOT Cinema 3 HD"  tvg-logo="http://troya.one/images/chIcons/1140.png"  timeshift="3", IL: HOT Cinema 3 HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1140/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV6bwLXyMcQEVJP2AVIoXO5Yxa65uL_BBBAMvFeMnc7t
-#EXTINF:0 tvg-id="IL: HOT Cinema 4 HD"  tvg-logo="http://troya.one/images/chIcons/1192.png"  timeshift="6", IL: HOT Cinema 4 HD
+http://12.troya.one:34000/ch1140/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV6bwLXyMcQEVJP2AVIoXO5rx3FaKewEy02VNMplAKeB
+#EXTINF:0 tvg-id="IL: HOT Cinema 4 HD"  tvg-logo="http://troya.one/images/chIcons/1192.png"  timeshift="3", IL: HOT Cinema 4 HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1140/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV6bwLXyMcQEVJP2AVIoXO5Yxa65uL_BBBAMvFeMnc7t
-#EXTINF:0 tvg-id="IL: HOT Cinema Israeli HD"  tvg-logo="http://troya.one/images/chIcons/1133.png"  timeshift="6", IL: HOT Cinema Israeli HD
+http://12.troya.one:34000/ch1192/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXb9ggR7SQEZYHiUXQQJShypU3ovqB3CpM8O_KKCUooV
+#EXTINF:0 tvg-id="IL: HOT Cinema Israeli HD"  tvg-logo="http://troya.one/images/chIcons/1133.png"  timeshift="2", IL: HOT Cinema Israeli HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1133/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXJe4Ei0MbI5HgrxtIlML8SKbt7mcvk9xGGBh0b_Nqcg
-#EXTINF:0 tvg-id="IL: HOT Zone HD"  tvg-logo="http://troya.one/images/chIcons/1139.png"  timeshift="6", IL: HOT Zone HD
+http://12.troya.one:34000/ch1133/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXJe4Ei0MbI5HgrxtIlML8R688-BbUtJcR59dW8iQ7ff
+#EXTINF:0 tvg-id="IL: HOT Zone HD"  tvg-logo="http://troya.one/images/chIcons/1139.png"  timeshift="3", IL: HOT Zone HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1139/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXu6BNUFuk9BrVDo4uSP_xXWsYDTMuy7Fw7oyBelvwAZ
+http://12.troya.one:34000/ch1139/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXu6BNUFuk9BrVDo4uSP_xWtmhy0Ap5lzIU7KUnFd1uw
 #EXTINF:0 tvg-id="IL: Free Movies Romantic HD"  tvg-logo="http://troya.one/images/chIcons/2536.png"  timeshift="6", IL: Free Movies Romantic HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2536/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaLKXfD5AeksG1waCtqO13WV6mrbJeLo8nmz23trXuDv
-#EXTINF:0 tvg-id="IL: HOT 3 HD"  tvg-logo="http://troya.one/images/chIcons/1147.png"  timeshift="6", IL: HOT 3 HD
+http://12.troya.one:34000/ch2536/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaLKXfD5AeksG1waCtqO13V7kw67Yy1HWE5HcneX1Cm1
+#EXTINF:0 tvg-id="IL: HOT 3 HD"  tvg-logo="http://troya.one/images/chIcons/1147.png"  timeshift="3", IL: HOT 3 HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch1147/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubrPNqdpHXj8i8QNpxCzxNieyecCZILFvezK5c6mXcsX
-#EXTINF:0 tvg-id="IL: HOT Bidur HD"  tvg-logo="http://troya.one/images/chIcons/1163.png"  timeshift="6", IL: HOT Bidur HD
+http://12.troya.one:34000/ch1147/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubrPNqdpHXj8i8QNpxCzxNgtIMJAz9ZewZYD0JTpE3aQ
+#EXTINF:0 tvg-id="IL: HOT Bidur HD"  tvg-logo="http://troya.one/images/chIcons/1163.png"  timeshift="3", IL: HOT Bidur HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch1163/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaTswr-tiVvT_BRNhfP_exXnJU9IzoGripXBDSO4KbBT
-#EXTINF:0 tvg-id="IL: HOT Real HD"  tvg-logo="http://troya.one/images/chIcons/1173.png"  timeshift="6", IL: HOT Real HD
+http://12.troya.one:34000/ch1163/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaTswr-tiVvT_BRNhfP_exUQqR8Spk88sZMmx3-SdZ94
+#EXTINF:0 tvg-id="IL: HOT Real HD"  tvg-logo="http://troya.one/images/chIcons/1173.png"  timeshift="3", IL: HOT Real HD
 #EXTGRP:ריאליטי
-http://12.troya.one:34000/ch1173/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV5RvpVN4KDWzxBAHUXUq1cAhThVBbrO0trRiLCGImv8
+http://12.troya.one:34000/ch1173/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV5RvpVN4KDWzxBAHUXUq1duQ6mwhjDWFPpIyKbthdaE
 #EXTINF:0 tvg-id="IL: HOT Senior HD"  tvg-logo="http://troya.one/images/chIcons/2613.png"  timeshift="6", IL: HOT Senior HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch2613/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ublvUFh42wMi64U0RuYQfIfvFCB-Uap0EqT-RgSA5zsC
+http://12.troya.one:34000/ch2613/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ublvUFh42wMi64U0RuYQfIdSqKGsG02IXZvvRLsI3czL
 #EXTINF:0 tvg-id="IL: HOT Buzz HD"  tvg-logo="http://troya.one/images/chIcons/2614.png"  timeshift="6", IL: HOT Buzz HD
-#EXTGRP:כללי
-http://12.troya.one:34000/ch2614/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZMRHIcyRKDg9wa9JRnH_lHqm4tTik127R9np7gzlBQ6
+#EXTGRP:ילדים
+http://12.troya.one:34000/ch2614/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZMRHIcyRKDg9wa9JRnH_lGfceLhFMrsElEgaP_48HTT
 #EXTINF:0 tvg-id="IL: HBO HD"  tvg-logo="http://troya.one/images/chIcons/2639.png"  timeshift="6", IL: HBO HD
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch2639/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYtcaFa5wDZrR7ZiWOTnPoE3HDlLTs3qnF8d8FmKtN-3
+http://12.troya.one:34000/ch2639/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYtcaFa5wDZrR7ZiWOTnPoEaIB32TgukpvFUtmL7b3O8
 #EXTINF:0 tvg-id="IL: Free Series Global HD"  tvg-logo="http://troya.one/images/chIcons/2533.png"  timeshift="6", IL: Free Series Global HD
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch2533/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueeNgKqoVVa0c1wjKGOpA56ANBEhv21p020OrR4s-12s
-#EXTINF:0 tvg-id="IL: ONE Doco"  tvg-logo="http://troya.one/images/chIcons/1195.png"  timeshift="6", IL: ONE Doco
+http://12.troya.one:34000/ch2533/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueeNgKqoVVa0c1wjKGOpA55XiyYyE2sNueDCYSUpBN2O
+#EXTINF:0 tvg-id="IL: ONE Doco"  tvg-logo="http://troya.one/images/chIcons/1195.png"  timeshift="3", IL: ONE Doco
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1195/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uRVUWUktdKB3xhsgygOY58B9tkKU2OgBzQbggBwNvyYN
+http://12.troya.one:34000/ch1195/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uRVUWUktdKB3xhsgygOY58A9s7_ILqEwX1BwgZ1T87uI
 #EXTINF:0 tvg-id="IL: LFC TV HD"  tvg-logo="http://troya.one/images/chIcons/2642.png"  timeshift="0", IL: LFC TV HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2642/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZZM02UItq99lRuM1cduRlmrKSu4vVsZRiWnW3gKCmF-
+http://12.troya.one:34000/ch2642/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZZM02UItq99lRuM1cduRllpx7X9srREiJRi1sKlO0kI
 #EXTINF:0 tvg-id="IL: MU TV"  tvg-logo="http://troya.one/images/chIcons/2617.png"  timeshift="0", IL: MU TV
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2617/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYI6pm7pKoh99uxCYuGmSQisAhE_CD1yb_s0Ub6kSRAU
+http://12.troya.one:34000/ch2617/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYI6pm7pKoh99uxCYuGmSQiChL_BZ8MG1gt-OmbPPREE
 #EXTINF:0 tvg-id="IL: Eurosport 1 HD"  tvg-logo="http://troya.one/images/chIcons/2496.png"  timeshift="6", IL: Eurosport 1 HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2496/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWnbICFfEqeblCADjtxvnI0ord6534JHPCF6xZ5cbdzp
+http://12.troya.one:34000/ch2496/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWnbICFfEqeblCADjtxvnI31q4o39NQp5t9uu5J9BMJE
 #EXTINF:0 tvg-id="IL: Eurosport 2 HD"  tvg-logo="http://troya.one/images/chIcons/2497.png"  timeshift="6", IL: Eurosport 2 HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2497/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubq6MW5lvXgHhE1QKrSz0j68t-T6O6M4f9MmI-wkjQEQ
+http://12.troya.one:34000/ch2497/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubq6MW5lvXgHhE1QKrSz0j4Ok9O9Mdmej44S3KXA8OJK
 #EXTINF:0 tvg-id="IL: Extreme Sports"  tvg-logo="http://troya.one/images/chIcons/2615.png"  timeshift="6", IL: Extreme Sports
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2615/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYG9YAiw4ruCpk78ZGOH5C_43vyuemb4Py0xxTD4epC-
+http://12.troya.one:34000/ch2615/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYG9YAiw4ruCpk78ZGOH5C-EJRQY-kyD-2k6EzagPczS
 #EXTINF:0 tvg-id="IL: Edge Sport HD"  tvg-logo="http://troya.one/images/chIcons/2629.png"  timeshift="6", IL: Edge Sport HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2629/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufOkVuZvPxui_hOFM0TS_3SuMy248Cmx5zkpV5fLA3QK
-#EXTINF:0 tvg-id="IL: ONE 1 HD"  tvg-logo="http://troya.one/images/chIcons/1186.png"  timeshift="6", IL: ONE 1 HD
+http://12.troya.one:34000/ch2629/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufOkVuZvPxui_hOFM0TS_3Qxp1BrVAu7Addko9S_G3DQ
+#EXTINF:0 tvg-id="IL: ONE 1 HD"  tvg-logo="http://troya.one/images/chIcons/1186.png"  timeshift="3", IL: ONE 1 HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1186/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufHXA4nWZcn_msScChvmgIv-imPpdFn4WMu9MXfqtswg
-#EXTINF:0 tvg-id="IL: ONE 2 HD"  tvg-logo="http://troya.one/images/chIcons/1145.png"  timeshift="6", IL: ONE 2 HD
+http://12.troya.one:34000/ch1186/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufHXA4nWZcn_msScChvmgIvlQqmLygifrk6KV2vuIPKT
+#EXTINF:0 tvg-id="IL: ONE 2 HD"  tvg-logo="http://troya.one/images/chIcons/1145.png"  timeshift="3", IL: ONE 2 HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1145/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubLhczld6mqyuEILleyeXi6QcGo7CAcDqw5ilBWOKp4G
+http://12.troya.one:34000/ch1145/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubLhczld6mqyuEILleyeXi7UoC8XjQxCHgnN-neBf-Ff
 #EXTINF:0 tvg-id="IL: Partner Sratim"  tvg-logo="http://troya.one/images/chIcons/2609.png"  timeshift="6", IL: Partner Sratim
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2609/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uViQFvbAsQMpGTPMkHO9zmBTecdml6MbqYm343d_1fIB
+http://12.troya.one:34000/ch2609/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uViQFvbAsQMpGTPMkHO9zmCNV_vjAoh3q2GzW1T5yfBY
 #EXTINF:0 tvg-id="IL: Partner Sdarot"  tvg-logo="http://troya.one/images/chIcons/2610.png"  timeshift="6", IL: Partner Sdarot
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch2610/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufATQjp4Uki_-pH2ApkMJoZSvedZrKLmCSJ1JbMtoJVA
+http://12.troya.one:34000/ch2610/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufATQjp4Uki_-pH2ApkMJoYFsZDX2usq4QvZm_litypq
 #EXTINF:0 tvg-id="Il: Real Madrid TV"  tvg-logo="http://troya.one/images/chIcons/2616.png"  timeshift="0", Il: Real Madrid TV
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2616/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uU1tNuceg25t-IjS9wb3oSBDLfxjkMiMmKtPOc19cgT9
-#EXTINF:0 tvg-id="IL: Sport 1 FHD"  tvg-logo="http://troya.one/images/chIcons/1128.png"  timeshift="6", IL: Sport 1 FHD
+http://12.troya.one:34000/ch2616/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uU1tNuceg25t-IjS9wb3oSDfnfksrtD4WPxjO1aa595i
+#EXTINF:0 tvg-id="IL: Sport 1 FHD"  tvg-logo="http://troya.one/images/chIcons/1128.png"  timeshift="3", IL: Sport 1 FHD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1128/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXAkwN34QayKj3jTdpb5skirKusGedldhwVvXHaWmrts
-#EXTINF:0 tvg-id="IL: Sport 2 FHD"  tvg-logo="http://troya.one/images/chIcons/1129.png"  timeshift="6", IL: Sport 2 FHD
+http://12.troya.one:34000/ch1128/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXAkwN34QayKj3jTdpb5skj4opWvW8xzGZoEnqG1p78C
+#EXTINF:0 tvg-id="IL: Sport 2 FHD"  tvg-logo="http://troya.one/images/chIcons/1129.png"  timeshift="3", IL: Sport 2 FHD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1129/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaQdiiW8f9Ys_o5-A1q5-BEgLkZCHr2kXCRDine3fHtB
-#EXTINF:0 tvg-id="IL: Sport 3 FHD"  tvg-logo="http://troya.one/images/chIcons/1130.png"  timeshift="6", IL: Sport 3 FHD
+http://12.troya.one:34000/ch1129/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uaQdiiW8f9Ys_o5-A1q5-BHGK2VR5DjgoC6Lc-mU0ph-
+#EXTINF:0 tvg-id="IL: Sport 3 FHD"  tvg-logo="http://troya.one/images/chIcons/1130.png"  timeshift="3", IL: Sport 3 FHD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1130/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQEvfulvT6_pv8ztvDs0vGBTkD-xTbCngt-PDS_h-Ax1
-#EXTINF:0 tvg-id="IL: Sport 4 FHD"  tvg-logo="http://troya.one/images/chIcons/1131.png"  timeshift="6", IL: Sport 4 FHD
+http://12.troya.one:34000/ch1130/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQEvfulvT6_pv8ztvDs0vGAGanbrvlCpntQI6SSg2trj
+#EXTINF:0 tvg-id="IL: Sport 4 FHD"  tvg-logo="http://troya.one/images/chIcons/1131.png"  timeshift="3", IL: Sport 4 FHD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1131/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubTRSyVEC1kBWkg0Vg4oqJlZ7iqGlQIkYdIvOMnl-qto
-#EXTINF:0 tvg-id="IL: Sport 5 HD"  tvg-logo="http://troya.one/images/chIcons/1132.png"  timeshift="6", IL: Sport 5 HD
+http://12.troya.one:34000/ch1131/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubTRSyVEC1kBWkg0Vg4oqJm3uYXqVSHyKdbYIFZQ6nR4
+#EXTINF:0 tvg-id="IL: Sport 5 HD"  tvg-logo="http://troya.one/images/chIcons/1132.png"  timeshift="3", IL: Sport 5 HD
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1132/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSknjRGwAHsiFRzOewuLaUbnD-ItEUSfehRmrpi4fESW
+http://12.troya.one:34000/ch1132/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSknjRGwAHsiFRzOewuLaUbxu6Yu-NEcOiJrAoxvFwdP
 #EXTINF:0 tvg-id="IL: Sport 5 4K"  tvg-logo="http://troya.one/images/chIcons/2211.png"  timeshift="0", IL: Sport 5 4K
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2211/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTDVX1Nfyu7YR38qc2h4ZcKpjIgLQ0H0bFFcOj4ge-zU
-#EXTINF:0 tvg-id="IL: Sport 5 Livе"  tvg-logo="http://troya.one/images/chIcons/1155.png"  timeshift="6", IL: Sport 5 Livе
+http://12.troya.one:34000/ch2211/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTDVX1Nfyu7YR38qc2h4ZcKMTDqS9vfH4oMEPVO2XDEs
+#EXTINF:0 tvg-id="IL: Sport 5 Livе"  tvg-logo="http://troya.one/images/chIcons/1155.png"  timeshift="3", IL: Sport 5 Livе
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1155/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udsYwIUSYsAk_3YDS77KTLXSS6C5PsZHOrWsRm1fv0i9
-#EXTINF:0 tvg-id="IL: Sport 5 Plus"  tvg-logo="http://troya.one/images/chIcons/1134.png"  timeshift="6", IL: Sport 5 Plus
+http://12.troya.one:34000/ch1155/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udsYwIUSYsAk_3YDS77KTLWCRr8quiRFee7qAqxp1fbP
+#EXTINF:0 tvg-id="IL: Sport 5 Plus"  tvg-logo="http://troya.one/images/chIcons/1134.png"  timeshift="3", IL: Sport 5 Plus
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1134/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSVlQ_0mHaRGwLjBk0m6myZ_ZevzrluSNyhQthhOQcQM
-#EXTINF:0 tvg-id="IL: Sport 5 Gold"  tvg-logo="http://troya.one/images/chIcons/1135.png"  timeshift="6", IL: Sport 5 Gold
+http://12.troya.one:34000/ch1134/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSVlQ_0mHaRGwLjBk0m6myZPxLGSKz5nFUyRQpuct6Dn
+#EXTINF:0 tvg-id="IL: Sport 5 Gold"  tvg-logo="http://troya.one/images/chIcons/1135.png"  timeshift="3", IL: Sport 5 Gold
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1135/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYEoa8jnkkzhFsL_chEEYFOSZ1hAzx93ZCosiZVOA9_W
-#EXTINF:0 tvg-id="IL: Sport 5 Stars"  tvg-logo="http://troya.one/images/chIcons/1156.png"  timeshift="6", IL: Sport 5 Stars
+http://12.troya.one:34000/ch1135/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYEoa8jnkkzhFsL_chEEYFPTM45WrpKwqHLbEE_i5d4M
+#EXTINF:0 tvg-id="IL: Sport 5 Stars"  tvg-logo="http://troya.one/images/chIcons/1156.png"  timeshift="3", IL: Sport 5 Stars
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch1156/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ud08-_MT2eegK_dlr9YUfJVhWzmP3UElz42oBmzvlHpb
+http://12.troya.one:34000/ch1156/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ud08-_MT2eegK_dlr9YUfJVmoLv1hGlQ9UzTI3F4tejV
 #EXTINF:0 tvg-id="IL: Sport TO GO 1"  tvg-logo="http://troya.one/images/chIcons/2618.png"  timeshift="0", IL: Sport TO GO 1
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2618/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUk5GIDhYJdFbGK5lgG-30pDn9MM-Yi18sGIx5BFQPNi
+http://12.troya.one:34000/ch2618/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUk5GIDhYJdFbGK5lgG-30rgtcb7rcfKYkPzK3XUILFF
 #EXTINF:0 tvg-id="IL: Sport TO GO 2"  tvg-logo="http://troya.one/images/chIcons/2619.png"  timeshift="0", IL: Sport TO GO 2
 #EXTGRP:ספורט
-http://12.troya.one:34000/ch2619/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUhb8uVur1HoHN8PRyje_eCcOgw9NL6omzwoUEGPv7U6
+http://12.troya.one:34000/ch2619/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUhb8uVur1HoHN8PRyje_eC-URne57jkLBMM8DDP6tqj
 #EXTINF:0 tvg-id="IL: Savri HD"  tvg-logo="http://troya.one/images/chIcons/2545.png"  timeshift="6", IL: Savri HD
 #EXTGRP:קומדיה
-http://12.troya.one:34000/ch2545/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYN-1GzDWrMtvnWTif626Jm4l-kIC_M9Eq9DhRe4ilMK
+http://12.troya.one:34000/ch2545/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYN-1GzDWrMtvnWTif626JkAukIlxxmgE3X7wuGQ7K7a
 #EXTINF:0 tvg-id="IL: TLC HD"  tvg-logo="http://troya.one/images/chIcons/2632.png"  timeshift="6", IL: TLC HD
 #EXTGRP:ריאליטי
-http://12.troya.one:34000/ch2632/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVJm_bP7D5BXx3yyXkOaD6qLjhPo4-YeipHOf4J7ptp1
-#EXTINF:0 tvg-id="IL: YES Movies Action HD"  tvg-logo="http://troya.one/images/chIcons/1148.png"  timeshift="6", IL: YES Movies Action HD
+http://12.troya.one:34000/ch2632/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVJm_bP7D5BXx3yyXkOaD6ql322A80S3N7JzUEArGXXf
+#EXTINF:0 tvg-id="IL: YES Movies Action HD"  tvg-logo="http://troya.one/images/chIcons/1148.png"  timeshift="4", IL: YES Movies Action HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1148/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVJs4wmTeF7UwT_YzeFAqJZn4Drs5PYdDWi6NyaQoQgm
-#EXTINF:0 tvg-id="IL: YES Movies Drama HD"  tvg-logo="http://troya.one/images/chIcons/1150.png"  timeshift="6", IL: YES Movies Drama HD
+http://12.troya.one:34000/ch1148/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVJs4wmTeF7UwT_YzeFAqJZ4ou3AtxTD-74xcDd_P3co
+#EXTINF:0 tvg-id="IL: YES Movies Drama HD"  tvg-logo="http://troya.one/images/chIcons/1150.png"  timeshift="3", IL: YES Movies Drama HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1150/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ue4qoNlyl4BGqXz1qLi0_8x1LWUSrWEuKULH781vqU3L
-#EXTINF:0 tvg-id="IL: YES TV Action HD"  tvg-logo="http://troya.one/images/chIcons/1158.png"  timeshift="6", IL: YES TV Action HD
+http://12.troya.one:34000/ch1150/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ue4qoNlyl4BGqXz1qLi0_8xwc1gJUnOiIJ6HI4tKJVBa
+#EXTINF:0 tvg-id="IL: YES TV Action HD"  tvg-logo="http://troya.one/images/chIcons/1158.png"  timeshift="2", IL: YES TV Action HD
 #EXTGRP:סדרות
-http://12.troya.one:34000/ch1158/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uR52w1_XQCMNoD1idryovksG5VQKwZP8MavHA7Obdt10
-#EXTINF:0 tvg-id="IL: YES TV Drama HD"  tvg-logo="http://troya.one/images/chIcons/1160.png"  timeshift="6", IL: YES TV Drama HD
+http://12.troya.one:34000/ch1158/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uR52w1_XQCMNoD1idryovkslHOXF_O-t-rcFoBYzrvRv
+#EXTINF:0 tvg-id="IL: YES TV Drama HD"  tvg-logo="http://troya.one/images/chIcons/1160.png"  timeshift="3", IL: YES TV Drama HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1160/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV3GhZewmduDOQjBEjXyseOFtp8H1S6XqeElJ3z18pBw
-#EXTINF:0 tvg-id="IL: YES Docu HD"  tvg-logo="http://troya.one/images/chIcons/1137.png"  timeshift="6", IL: YES Docu HD
+http://12.troya.one:34000/ch1160/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uV3GhZewmduDOQjBEjXyseNe91vte77U6SqV3QyKgAtf
+#EXTINF:0 tvg-id="IL: YES Docu HD"  tvg-logo="http://troya.one/images/chIcons/1137.png"  timeshift="3", IL: YES Docu HD
 #EXTGRP:כללי
-http://12.troya.one:34000/ch1137/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXqYtg6HaxZ5aOUdjP5N3j4y-E6gEK-vdykqge8oDIQQ
+http://12.troya.one:34000/ch1137/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uXqYtg6HaxZ5aOUdjP5N3j67A7C-iRtrFg_TmCgHoSyZ
 #EXTINF:0 tvg-id="IL: YES Israeli Cinema HD"  tvg-logo="http://troya.one/images/chIcons/2030.png"  timeshift="3", IL: YES Israeli Cinema HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch2030/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSaHnVK1Ok8T2rkuC_wYQiLN4zcKT4KiV25nbT9LDH3N
+http://12.troya.one:34000/ch2030/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uSaHnVK1Ok8T2rkuC_wYQiLNk1Qh8AYEDudizEWJXyL6
 #EXTINF:0 tvg-id="IL: YoYo"  tvg-logo="http://troya.one/images/chIcons/2625.png"  timeshift="6", IL: YoYo
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2625/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udCsKFOzCK_iJnLgw3yPiCNTQ-JOc97aIoyZxWpoSGjW
+http://12.troya.one:34000/ch2625/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udCsKFOzCK_iJnLgw3yPiCN_lGuvKP02vK6I3zRoEN3u
 #EXTINF:0 tvg-id="IL: Yalduti"  tvg-logo="http://troya.one/images/chIcons/2646.png"  timeshift="6", IL: Yalduti
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2646/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWZt9Y7vYzGXa8vLFunQfG5gh3k_2cZ2ioZ1ta0zqkDX
+http://12.troya.one:34000/ch2646/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWZt9Y7vYzGXa8vLFunQfG5GMVU3Y_SyKk8iw8mKTXFW
 #EXTINF:0 tvg-id="IL: Wiz"  tvg-logo="http://troya.one/images/chIcons/2031.png"  timeshift="0", IL: Wiz
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2031/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uc8DmwXDMmNVReAlxg-HwIwM92ABhB4pMi3dcoIFNlzd
+http://12.troya.one:34000/ch2031/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uc8DmwXDMmNVReAlxg-HwIxYh5cokj6wQYkSzdCkRgn3
 #EXTINF:0 tvg-id="IL: Zoom"  tvg-logo="http://troya.one/images/chIcons/2643.png"  timeshift="6", IL: Zoom
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2643/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTqv_7m7oycrlbbvaMGnHchFRw-MZMEd4ckbqMu_zt4t
+http://12.troya.one:34000/ch2643/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTqv_7m7oycrlbbvaMGnHchR5Usbe7vN62e5XFID3-WK
 #EXTINF:0 tvg-id="IL: Zoom Toon HD"  tvg-logo="http://troya.one/images/chIcons/2644.png"  timeshift="6", IL: Zoom Toon HD
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2644/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZY7gAN2X8I3JgcAXaGqgB29g7k_zdVJZvvHllMuQxUq
-#EXTINF:0 tvg-id="IL: Junior"  tvg-logo="http://troya.one/images/chIcons/1184.png"  timeshift="6", IL: Junior
+http://12.troya.one:34000/ch2644/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZY7gAN2X8I3JgcAXaGqgB2whEuLLWxaBLm8Of8SwCe-
+#EXTINF:0 tvg-id="IL: Junior"  tvg-logo="http://troya.one/images/chIcons/1184.png"  timeshift="2", IL: Junior
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1184/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucyYcSfHUqRVEQs67bjeW1qE-pO5SyjuSaH-r2Vh4Xcq
+http://12.troya.one:34000/ch1184/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucyYcSfHUqRVEQs67bjeW1putcKdFXb7PxJsHAyOezYz
 #EXTINF:0 tvg-id="IL: Logi"  tvg-logo="http://troya.one/images/chIcons/2626.png"  timeshift="6", IL: Logi
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2626/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf-UwBYtrNqFDbnEWgmcXCBbR7Yd7C8soWZCCB7TeD7j
-#EXTINF:0 tvg-id="IL: Kan Chinuchit 23"  tvg-logo="http://troya.one/images/chIcons/1171.png"  timeshift="6", Kan Chinuchit 23
+http://12.troya.one:34000/ch2626/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf-UwBYtrNqFDbnEWgmcXCBAehU-VhpsRdliV2bC8KUX
+#EXTINF:0 tvg-id="IL: Kan Chinuchit 23"  tvg-logo="http://troya.one/images/chIcons/1171.png"  timeshift="3", IL: Kan Chinuchit 23
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1171/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTkTOjoeiEQRn2xnkSXhdZPwrWBPG59TtF-eZb6FrO6Y
-#EXTINF:0 tvg-id="IL: Luli"  tvg-logo="http://troya.one/images/chIcons/1170.png"  timeshift="6", IL: Luli
+http://12.troya.one:34000/ch1171/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTkTOjoeiEQRn2xnkSXhdZNKy17r6y_e0hIuxtBge44v
+#EXTINF:0 tvg-id="IL: Luli"  tvg-logo="http://troya.one/images/chIcons/1170.png"  timeshift="3", IL: Luli
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1170/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubH-0bU0F4FKLMhaOC9ZmQc1DPKBnRvzf7EEmKCM8vJ1
+http://12.troya.one:34000/ch1170/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubH-0bU0F4FKLMhaOC9ZmQe31_vv7GRwcXKc88SD2QbL
 #EXTINF:0 tvg-id="IL: Jim Jam"  tvg-logo="http://troya.one/images/chIcons/2645.png"  timeshift="6", IL: Jim Jam
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2645/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUiisG647h5CBzLWDZuopkoRui23k7qUChFKjMgXEohx
+http://12.troya.one:34000/ch2645/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUiisG647h5CBzLWDZuopkob_eDobBRX776KZ1X9BuC7
 #EXTINF:0 tvg-id="IL: Fomo"  tvg-logo="http://troya.one/images/chIcons/2627.png"  timeshift="6", IL: Fomo
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2627/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufH1CCRvtHR_lacd1PABrSsOS34Mo9uKC70wAG6e6GO0
+http://12.troya.one:34000/ch2627/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufH1CCRvtHR_lacd1PABrSvwlVFz_3tun6255A7znzpl
 #EXTINF:0 tvg-id="IL: Nick Jr HD"  tvg-logo="http://troya.one/images/chIcons/2637.png"  timeshift="6", IL: Nick Jr HD
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2637/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufkj-DXupCBecz8ZXtf_ZtNrFYbXbpGOn8sDHC3SjJg4
-#EXTINF:0 tvg-id="IL: Nick HD"  tvg-logo="http://troya.one/images/chIcons/1185.png"  timeshift="6", IL: Nick HD
+http://12.troya.one:34000/ch2637/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufkj-DXupCBecz8ZXtf_ZtMtbKpOmD7XHTGWoTLxLdgV
+#EXTINF:0 tvg-id="IL: Nick HD"  tvg-logo="http://troya.one/images/chIcons/1185.png"  timeshift="3", IL: Nick HD
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1185/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubu2ydmMSeULvrbzuSuIIaYJ65Iv5nJ5R0OoL4nc8QqQ
-#EXTINF:0 tvg-id="IL: Disney Jr.-------------"  tvg-logo="http://troya.one/images/chIcons/1162.png"  timeshift="6", IL: Disney Jr.
+http://12.troya.one:34000/ch1185/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ubu2ydmMSeULvrbzuSuIIaZkzCegV7TO1KtbNhW4y15n
+#EXTINF:0 tvg-id="IL: Disney Channel HD"  tvg-logo="http://troya.one/images/chIcons/1121.png"  timeshift="3", IL: Disney Channel HD
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1162/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucp_061ewAIMX36h9HCdcii4cX8tasCFjBNxxcTQ4z_E----------
-#EXTINF:0 tvg-id="IL: Disney Channel HD"  tvg-logo="http://troya.one/images/chIcons/1121.png"  timeshift="6", IL: Disney Channel HD
+http://12.troya.one:34000/ch1121/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWCAjXkOOYn7zgsRz4CD1XODERZ8z6iPfBwy01AP9dF1
+#EXTINF:0 tvg-id="IL: YES Movies Kids HD"  tvg-logo="http://troya.one/images/chIcons/1151.png"  timeshift="4", IL: YES Movies Kids HD
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1121/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWCAjXkOOYn7zgsRz4CD1XMGWno050CIDM92nCdNQrvR
-#EXTINF:0 tvg-id="IL: YES Movies Kids HD"  tvg-logo="http://troya.one/images/chIcons/1151.png"  timeshift="6", IL: YES Movies Kids HD
+http://12.troya.one:34000/ch1151/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uex-M2XC7Fxi2CQ-CXOGsQXVTovB98kxs_CLvG5JTRk0
+#EXTINF:0 tvg-id="IL: Cellcom Yeladim"  tvg-logo="http://troya.one/images/chIcons/1194.png"  timeshift="3", IL: Cellcom Yeladim
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch1151/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uex-M2XC7Fxi2CQ-CXOGsQVh2Gf-mtwB3u1qNR2OPZob
-#EXTINF:0 tvg-id="IL: Cellcom Yeladim"  tvg-logo="http://troya.one/images/chIcons/1194.png"  timeshift="6", IL: Cellcom Yeladim
-#EXTGRP:ילדים
-http://12.troya.one:34000/ch1194/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uewQGaNibkjUgbaGi9Gpwx744FuEtP6hfWk1YR9KQTE5
+http://12.troya.one:34000/ch1194/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uewQGaNibkjUgbaGi9Gpwx7F4F9xHbPeF5a0lmiJOqwP
 #EXTINF:0 tvg-id="IL: Partner Yladim"  tvg-logo="http://troya.one/images/chIcons/2608.png"  timeshift="6", IL: Partner Yladim
 #EXTGRP:ילדים
-http://12.troya.one:34000/ch2608/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf6RkDYv7kF56v1z1aspHSi8VTEyHF8HD42667OvxwZS
-#EXTINF:0 tvg-id="IL: HOT Cinema Family HD"  tvg-logo="http://troya.one/images/chIcons/1153.png"  timeshift="6", IL: HOT Cinema Family HD
+http://12.troya.one:34000/ch2608/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uf6RkDYv7kF56v1z1aspHShhfHshfAQVKelwJakojiJ4
+#EXTINF:0 tvg-id="IL: HOT Cinema Family HD"  tvg-logo="http://troya.one/images/chIcons/1153.png"  timeshift="3", IL: HOT Cinema Family HD
 #EXTGRP:סרטים
-http://12.troya.one:34000/ch1153/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQ2d6TbvpXqQjbW_CwBqNrhSrLGvWKIXSOCJSXoKFHHE
+http://12.troya.one:34000/ch1153/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uQ2d6TbvpXqQjbW_CwBqNrjEJEsEdzFeULBJP32AlSwo
 #EXTINF:0 tvg-id="IL: TeenNick"  tvg-logo="http://troya.one/images/chIcons/2500.png"  timeshift="6", IL: TeenNick
 #EXTGRP:ילדים
+http://12.troya.one:34000/ch2500/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueIqus2KwzR2Q8YKc83p5jG0ShC2y30jBdmk7Ll1O58Q

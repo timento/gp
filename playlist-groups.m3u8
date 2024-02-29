@@ -180,7 +180,7 @@ http://10.troya.one:34000/ch2533/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTGRP:כללי
 http://10.troya.one:34000/ch1195/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uRVUWUktdKB3xhsgygOY58Bai0W90fPEk_s5dm9vy593
 #EXTINF:0 tvg-name="ch2642"  tvg-logo="http://troya.one/images/chIcons/2642.png"  timeshift="0", IL: LFC TV HD
-#EXTGRP:ספורט
+#EXTGRP:כללי
 http://10.troya.one:34000/ch2642/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZZM02UItq99lRuM1cduRll5nsKSc72pi8FNxCL0-09q
 #EXTINF:0 tvg-name="ch2617"  tvg-logo="http://troya.one/images/chIcons/2617.png"  timeshift="0", IL: MU TV
 #EXTGRP:ספורט
@@ -209,8 +209,8 @@ http://10.troya.one:34000/ch2609/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTINF:0 tvg-name="ch2610"  tvg-logo="http://troya.one/images/chIcons/2610.png"  timeshift="6", IL: Partner Sdarot
 #EXTGRP:סרטים
 http://10.troya.one:34000/ch2610/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ufATQjp4Uki_-pH2ApkMJoa1oCuUb_0btlj1vkwCeggE
-#EXTINF:0 tvg-name="ch2616"  tvg-logo="http://troya.one/images/chIcons/2616.png"  timeshift="0", Il: Real Madrid TV
-#EXTGRP:סדרות
+#EXTINF:0 tvg-name="ch2616"  tvg-logo="http://troya.one/images/chIcons/2616.png"  timeshift="0", IL: Bollywood
+#EXTGRP:כללי
 http://10.troya.one:34000/ch2616/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uU1tNuceg25t-IjS9wb3oSDB7A01MR6SbjyTjLaX-yZF
 #EXTINF:0 tvg-name="ch1128"  tvg-logo="http://troya.one/images/chIcons/1128.png"  timeshift="3", IL: Sport 1 FHD
 #EXTGRP:ספורט

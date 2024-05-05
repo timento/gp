@@ -49,8 +49,8 @@ http://10.troya.one:34000/ch1174/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 http://10.troya.one:34000/ch1149/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uTZCIzNHk74pWjjGirpyQKj52BzA22NqnYaYsvF11x_V
 #EXTINF:0 tvg-id="IL: Erez Nehederet HD"  tvg-logo="http://troya.one/images/chIcons/2544.png"  timeshift="6", IL: Erez Nehederet HD
 #EXTGRP:קומדיה
-http://10.troya.one:34000/ch2544/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWahxDLmUVNgCYl9UOY8zq-CaQ10tuGl57f0_WyUEoNs
-#EXTINF:0 tvg-id="IL: Humor Chanenel"  tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="3", IL: Humor Chanenel
+http://10.troya.one:34000/ch2544/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWahxDLmUVNgCYl9UOY8zq_uPSU94ZcNS8_I8tS8DhMq
+#EXTINF:0 tvg-id="IL: Humor Channel"  tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="6", IL: Humor Channel
 #EXTGRP:קומדיה
 http://10.troya.one:34000/ch1178/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucTivknYWFFFet9hOUd6B5ZX__WLrRfkvudiAkPUcoiQ
 #EXTINF:0 tvg-id="IL: YES TV Comedy HD"  tvg-logo="http://troya.one/images/chIcons/1159.png"  timeshift="2", IL: YES TV Comedy HD

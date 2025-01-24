@@ -329,3 +329,27 @@ http://10.troya.one:34000/ch1153/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTINF:0 tvg-id="IL: TeenNick"  tvg-logo="http://troya.one/images/chIcons/2500.png"  timeshift="6", IL: TeenNick
 #EXTGRP:ילדים
 http://10.troya.one:34000/ch2500/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ueIqus2KwzR2Q8YKc83p5jG0ShC2y30jBdmk7Ll1O58Q
+#EXTINF:0 tvg-id="IL: Free Tv Feel Good"  tvg-logo="http://tv.team/images/chIcons/3036.png"  timeshift="0", IL: Free Tv Feel Good
+#EXTGRP:סרטים
+http://10.troya.info:34000/ch3036/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uVHwtd_0t7ASNtuiBAZwxvEGotKQoQlTQU9PEsDrYysW
+#EXTINF:0 tvg-id="IL: Hop Israeli Childhood"  tvg-logo="http://tv.team/images/chIcons/2138.png"  timeshift="0", IL: Hop Israeli Childhood
+#EXTGRP:ילדים
+http://10.troya.info:34000/ch2138/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uR_qTxZG-R4bkk5ZIPw98Xl4ZA0xRnoTtZYYksytphBB
+#EXTINF:0 tvg-id="IL: Hop Pele HD"  tvg-logo="http://tv.team/images/chIcons/2003.png"  timeshift="6", IL: Hop Pele HD
+#EXTGRP:ילדים
+http://10.troya.info:34000/ch2003/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uT-qf9hIr-oH_xiQ_VM8SeCpcL5fy_N0_pNQT5omPrHG
+#EXTINF:0 tvg-id="IL: i24 News"  tvg-logo="http://tv.team/images/chIcons/2824.png"  timeshift="0", IL: i24 News
+#EXTGRP:חדשות
+http://10.troya.info:34000/ch2824/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4udlFdByZ9n5v6g-1NPbyWdhQWX6KNBXHboeKwzpSIF0f
+#EXTINF:0 tvg-id="IL: Kalkala 10 HD"  tvg-logo="http://tv.team/images/chIcons/3134.png"  timeshift="0", IL: Kalkala 10 HD
+#EXTGRP:חדשות
+http://10.troya.info:34000/ch3134/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4ucsfvmXgrZaWKisbHtchWflngszg5nyPXW_INYc9xvx0
+#EXTINF:0 tvg-id="IL: Love Island"  tvg-logo="http://tv.team/images/chIcons/2004.png"  timeshift="6", IL: Love Island
+#EXTGRP:ריאליטי
+http://10.troya.info:34000/ch2004/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uY8PCYslKD_Otbx0KA5ZO7r_sJZcorfdIWVym3SYqgrR
+#EXTINF:0 tvg-id="IL: YES Plus Diamonds HD"  tvg-logo="http://tv.team/images/chIcons/3030.png"  timeshift="6", IL: YES Plus Diamonds HD
+#EXTGRP:סרטים
+http://10.troya.info:34000/ch3030/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uUx8Kk-_WKkb1l93uHp49DiAV_FwTCAP_HT9yFMFbqRD
+#EXTINF:0 tvg-id="IL: YES Plus Cinema HD"  tvg-logo="http://tv.team/images/chIcons/1915.png"  timeshift="6", IL: YES Plus Cinema HD
+#EXTGRP:סרטים
+http://10.troya.info:34000/ch1915/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uU_n4DWatJER2Y7oK19I0uO9NiCj0mnvzBomg0qVSRWe

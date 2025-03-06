@@ -180,6 +180,7 @@ http://10.troya.one:34000/ch2533/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTGRP:כללי
 http://10.troya.info:34000/ch1195/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uRVUWUktdKB3xhsgygOY58BeyvlL3Vb3UYzs0TzXn_AW
 #EXTINF:0 tvg-id="IL: Fashion"  tvg-logo="http://troya.info/images/chIcons/2642.png"  timeshift="6", IL: Fashion
+#EXTGRP:כללי
 http://10.troya.one:34000/ch2642/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZZM02UItq99lRuM1cduRllpx7X9srREiJRi1sKlO0kI
 #EXTINF:0 tvg-id="IL: Free Movies Family HD"  tvg-logo="http://troya.info/images/chIcons/2617.png"  timeshift="6", IL: Free Movies Family HD
 #EXTGRP:סרטים

@@ -182,9 +182,9 @@ http://10.troya.one:34000/ch1195/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kA
 #EXTINF:0 tvg-id="IL: LFC TV HD"  tvg-logo="http://troya.one/images/chIcons/2642.png"  timeshift="0", IL: LFC TV HD
 #EXTGRP:ספורט
 http://10.troya.one:34000/ch2642/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uZZM02UItq99lRuM1cduRllpx7X9srREiJRi1sKlO0kI
-#EXTINF:0 tvg-id="IL: MU TV"  tvg-logo="http://troya.one/images/chIcons/2617.png"  timeshift="0", IL: MU TV
-#EXTGRP:ספורט
-http://10.troya.one:34000/ch2617/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYI6pm7pKoh99uxCYuGmSQiChL_BZ8MG1gt-OmbPPREE
+#EXTINF:0 tvg-id="IL: Free Movies Family HD"  tvg-logo="http://troya.info/images/chIcons/2617.png"  timeshift="6", IL: Free Movies Family HD
+#EXTGRP:סרטים
+http://10.troya.info:34000/ch2617/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uYI6pm7pKoh99uxCYuGmSQgZT_ZRXuVI8YAD5_-2K8yA
 #EXTINF:0 tvg-id="IL: Eurosport 1 HD"  tvg-logo="http://troya.one/images/chIcons/2496.png"  timeshift="6", IL: Eurosport 1 HD
 #EXTGRP:ספורט
 http://10.troya.one:34000/ch2496/mono.m3u8?token=hellopixelim.M29-sIYDJeHYYS5-kAv4uWnbICFfEqeblCADjtxvnI31q4o39NQp5t9uu5J9BMJE
